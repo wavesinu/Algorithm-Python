@@ -1,3 +1,3 @@
 > ### Algorithm-Python
-> *Algorithm learning for coding test.
-> *It's a repository for personal records.
+> * Algorithm learning for coding test.
+> * It's a repository for personal records.
